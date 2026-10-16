@@ -1,0 +1,20 @@
+# Compiler files
+cache/
+out/
+
+# Broadcast logs
+/broadcast/
+
+# Dotenv file
+.env
+
+# worktree
+.claude/*
+!.claude/settings.json
+
+.audit-prep/
+
+.gas-snapshot
+.DS_Store
+
+windsurf
